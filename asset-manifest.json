@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TetrisLike/static/css/main.96e778a7.css",
+    "main.js": "/TetrisLike/static/js/main.6471fd5f.js",
+    "static/js/787.7bd38741.chunk.js": "/TetrisLike/static/js/787.7bd38741.chunk.js",
+    "static/media/bg.png": "/TetrisLike/static/media/bg.d63cfd51f1a63591fdd7.png",
+    "index.html": "/TetrisLike/index.html",
+    "main.96e778a7.css.map": "/TetrisLike/static/css/main.96e778a7.css.map",
+    "main.6471fd5f.js.map": "/TetrisLike/static/js/main.6471fd5f.js.map",
+    "787.7bd38741.chunk.js.map": "/TetrisLike/static/js/787.7bd38741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e778a7.css",
+    "static/js/main.6471fd5f.js"
+  ]
+}
