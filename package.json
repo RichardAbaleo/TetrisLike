@@ -1,6 +1,6 @@
 {
-  "name": "react-tetris",
-  "homepage": "https://RichardAbaleo.github.io/react-tetris",
+  "name": "tetrislike",
+  "homepage": "https://RichardAbaleo.github.io/TetrisLike",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
